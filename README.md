@@ -5,6 +5,7 @@ This project demonstrates autonomous navigation using **LiDAR-Camera fusion** an
 The system uses LiDAR-Camera fusion to perceive the environment and navigates autonomously using the **TD3** (Twin Delayed Deep Deterministic Policy Gradient) algorithm. Training takes place in a simulated environment built on **ROS Noetic** and **Gazebo 11**.
 
 ---
+<img width="1706" height="962" alt="TD3_SF_all" src="https://github.com/user-attachments/assets/67130e3d-eaa1-43e1-88f4-6e3e1eef94ec" />
 
 ## Requirements
 
